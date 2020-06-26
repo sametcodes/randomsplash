@@ -1,1 +1,1 @@
-# randomsplash
+When you get bored your KDE Plasma wallpaper, run it. It will set a [random unsplash image](https://source.unsplash.com/) as wallpaper. If you want to use a specific user's picture from unsplash, you can give the username as parameter.
