@@ -5,7 +5,7 @@ When you get bored your KDE Plasma wallpaper, run it. It will set a [random unsp
 ### installing
 
 ```bash
-sudo wget https://raw.githubusercontent.com/selmansamet/randomsplash/master/unsplash -O /usr/local/bin/randomsplash
+sudo wget https://raw.githubusercontent.com/selmansamet/randomsplash/master/randomsplash -O /usr/local/bin/randomsplash
 chmod +x /usr/local/bin/randomsplash
 ```
 
