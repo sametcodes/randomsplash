@@ -13,7 +13,7 @@ chmod +x /usr/local/bin/randomsplash
 
 Just run.
 
-If you want to use a specific unsplash user's photos, you can give the username as parameter.
+You can use search term as parameter.
 ```bash
-randomsplash nasa
+randomsplash space
 ```
